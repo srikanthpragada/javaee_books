@@ -14,3 +14,4 @@ Use  WEB-INF/database.sql  script to create required table and sequence.
 
 This project uses HR account of Oracle. in case you use a different user in Oracle then change code in DatabaseListener.java accordingly.
 
+<b>NOTE: </b> Make sure you place ojdbc6.jar (Oracle JDBC Driver) and  jstl-1.2.jar (JSTL) in WEB-INF/LIB folder.
