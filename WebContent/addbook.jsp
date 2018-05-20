@@ -38,7 +38,7 @@
 		</c:if>
 
 		<c:if test="${count == 0}">
-			<h3>Sorry! [${param.title}] could not be added due to errro!</h3>
+			<h3>Sorry! [${param.title}] could not be added due to error!</h3>
 		</c:if>
 	</c:if>
 	
