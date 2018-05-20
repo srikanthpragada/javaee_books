@@ -16,4 +16,5 @@ insert into books values(book_id_seq.nextval, 'C Programming',
   
 insert into books values(book_id_seq.nextval, 'Oracle Database SQL',
   'Jason Price',850);    
-  
+ 
+commit; 
